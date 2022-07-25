@@ -1,6 +1,6 @@
-# CUNY Hunter College
-### Computer Science Education, K-12
-### Master's Program
+# Welcome to Yenmin Young's Portfolio for her work at
+### CUNY Hunter College
+### Computer Science Education, K-12, MS
 
 ## CSCI 70900: Programming in a High Level Language
 SuperArrays
@@ -97,4 +97,20 @@ function draw() {
 */
 ```
 
-<!-- <img width="1003" alt="image" src="https://user-images.githubusercontent.com/87947236/180841310-195246be-1f1a-4f37-8dcb-bb48ab2d25d6.png"> -->
+
+
+## Courses I feel prepared to teach:
+- [x] Scratch
+- [x] p5.js
+- [x] Arduinos
+- [ ] Web development
+- [ ] Python
+- [ ] AP CS A
+- [ ] AP CS Principles
+
+## Table of Fun Things
+|Friend|Birthday|Why I love them|Activity we enjoy together|
+|------|--------|---------------|--------------------------|
+|Barbara|May 13 |Fun, insightful, great listener, smart| Watching TV |
+|Kevin|March 15|Funny, caring, motivated to learn and practice skills, encouraging| Annoying our dog|
+|Kim|November 22|Caring, passionate about teaching, Organized, knowledgeable| Venting about our classes and gushing about students|
